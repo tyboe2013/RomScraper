@@ -58,7 +58,7 @@ for each_console in consoles:
     # For loop to scrape every page after the first one
     for pages in pagination:
         # Finds anchor tags inside the game list
-        links = pages.find_all("a", limit=1)
+        links = pages.find_all("a", limit=35)
         # Iterates through the anchors and grabs the href link
         game_links = [link.get('href') for link in links]
         # Skips the first 3 to prevent scraping the same ones
