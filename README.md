@@ -1,0 +1,1 @@
+This project is a web scraper that will efficiently extract detailed information for a large number of Consoles and vintage ROMs from a specific website. This program will facilitate the acquisition of comprehensive data for use in research and analysis. 
