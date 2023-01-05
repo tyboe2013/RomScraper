@@ -1,1 +1,1 @@
-This project is a web scraper that will efficiently extract detailed information for a large number of Consoles and vintage ROMs from a specific website. This program will facilitate the acquisition of comprehensive data for use in research and analysis. 
+"The aim of this project is to design a web scraper that can effectively and efficiently extract comprehensive information on a large number of vintage ROMs and associated consoles from a specified website. The resulting data, stored in the Rominfo_Full.csv file, will be used for research and analysis purposes.
