@@ -115,7 +115,7 @@ df = pd.DataFrame({ 'Console': Console, 'Title': Title, 'Rating': Rating,
 # Uses df to make the csv
 df.to_csv('RomInfo.csv', index=False, encoding='utf-8')
 
-# Cleans the csv the Download links for a downloader
+# Cleans the csv
 text = open("RomInfo.csv", "r")
 # Removes words from csv file
 text = ''.join([i for i in text]) \
